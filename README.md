@@ -1,2 +1,2 @@
-# tcal
-term calendar
+# cal.nvim
+simple nvim calendar

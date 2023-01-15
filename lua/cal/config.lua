@@ -1,4 +1,10 @@
 local default_config = {
+	window = {
+		width = 0.8,
+		height = 0.8,
+		split = 0.3,
+		border = "rounded",-- border decoration for example "rounded"(:h nvim_open_win)
+	}
 }
 
 local M = vim.deepcopy(default_config)
